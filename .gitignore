@@ -1,0 +1,5 @@
+# Ignore the chromedriver executable
+chromedriver.exe
+
+# Ignore the specific PNG file
+image_name.png
